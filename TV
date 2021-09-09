@@ -95,7 +95,7 @@ http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/10277.ts
 http://50.7.34.90:8090/live/OFF_HD
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://i.imgur.com/mUxuHi4.jpg" group-title="CANAIS ESPORTES",PREMIERE CLUBES FHD
-http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4371.ts
+https://live-tvg-pe-01.video.globo.com/d/s/hls-pfc1/playlist.m3u8?h=0401631305442180957173216312190418479047756SJpi0t5lokVsu8U5t8Gkmg&k=html5&a=F&u=34bfe3e6-a165-45d9-92a2-f1ddf054518f
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://i.imgur.com/mUxuHi4.jpg" group-title="CANAIS ESPORTES",PREMIERE CLUBES HD
 http://212.224.98.210:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=RED_aKl63O9ZocrFyze_x7yeqQ==,1620476015.4914806624
